@@ -1,0 +1,2 @@
+# sailsSample
+### a Sails application
